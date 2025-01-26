@@ -2,7 +2,7 @@ import os
 
 
 class Config(object):
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7911631256:AAG39VswL9D4RtcrIIh_9M0kDQYRfPnNEP8")
 
     APP_ID = int(os.environ.get("APP_ID", 21627756))
 
